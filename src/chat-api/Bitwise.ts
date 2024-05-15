@@ -11,14 +11,14 @@ export const USER_BADGES = {
   FOUNDER: {
     name: "Founder",
     bit: 1,
-    description: "Creator of Nerimity",
+    description: "Creator of Nartimi",
     color: "linear-gradient(90deg, #4fffbd 0%, #4a5efc 100%);",
     credit: "Avatar Border by upklyak on Freepik"
   },
   ADMIN: {
     name: "Admin",
     bit: 2,
-    description: "Admin of Nerimity",
+    description: "Admin of Nartimi",
     color: "linear-gradient(90deg, rgba(224,26,185,1) 0%, rgba(64,122,255,1) 100%);",
     credit: "Avatar Border by upklyak on Freepik"
   },
