@@ -37,9 +37,9 @@ jobs:
           VITE_MOBILE_WIDTH: 850
           VITE_TURNSTILE_SITEKEY: "0x4AAAAAAABO1ilip_YaVHJk"
           VITE_EMOJI_URL: "https://nartimi.onrender.com/twemojis/"
-          VITE_NERIMITY_CDN: "https://cdn.nerimity.com/"
-          VITE_GOOGLE_CLIENT_ID: "833085928210-2ksk1asgbmqvsg6jb3es4asnmug2a4iu.apps.googleusercontent.com"
-          VITE_GOOGLE_API_KEY: "AIzaSyAPeozJV7itoZk9Fk1VYbFCDMMXB-gU38M"
+          VITE_NERIMITY_CDN: "https://nartimi.onrender.com"
+          VITE_GOOGLE_CLIENT_ID: "958688488763-dee563pf11penu7fpikke2uv96591egm.apps.googleusercontent.com"
+          VITE_GOOGLE_API_KEY: "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"
 
       - name: Zip The Build
         uses: vimtor/action-zip@v1
